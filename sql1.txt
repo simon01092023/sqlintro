@@ -63,5 +63,4 @@ JOIN OrderDetails ON Orders.OrderID = OrderDetails.OrderID
 JOIN Products ON OrderDetails.ProductID = Products.ProductID
 WHERE Products.ProductName LIKE '%Tofu%';
 
-
-
+8. Testing git with mentor 
